@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://payroll.c9wg3jukmsv3.us-east-1.rds.amazonaws.com
+    username: admin
+    password: Imperio89
